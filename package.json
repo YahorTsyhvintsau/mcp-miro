@@ -1,6 +1,6 @@
 {
-  "name": "@k-jarzyna/mcp-miro",
-  "version": "1.0.8",
+  "name": "@tsyhviny/mcp-miro",
+  "version": "2.0.0",
   "main": "build/index.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "mcp-miro": "cli.cjs"
   },
   "keywords": [],
-  "author": "Konrad Jarzyna",
+  "author": "Yahor Tsyhvintsau",
   "license": "Apache-2.0",
   "description": "Miro integration for Model Context Protocol",
   "dependencies": {
@@ -30,11 +30,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/k-jarzyna/mcp-miro"
+    "url": "https://github.com/YahorTsyhvintsau/mcp-miro.git"
   },
   "files": [
     "build",
     "cli.cjs"
   ],
-  "homepage": "https://github.com/k-jarzyna/mcp-miro"
+  "homepage": "https://github.com/YahorTsyhvintsau/mcp-miro"
 }

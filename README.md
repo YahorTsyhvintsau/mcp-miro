@@ -1,6 +1,8 @@
 # MCP Miro Server
 
-[![smithery badge](https://smithery.ai/badge/@k-jarzyna/mcp-miro)](https://smithery.ai/server/@k-jarzyna/mcp-miro)
+Forked from [@k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro) (original author: Konrad Jarzyna).
+
+[![smithery badge](https://smithery.ai/badge/YahorTsyhvintsau/mcp-miro)](https://smithery.ai/server/YahorTsyhvintsau/mcp-miro)
 
 Model Context Protocol (MCP) server integrating with the [Miro](https://miro.com/) platform. It enables AI assistants (like Claude) to access Miro boards and manage their content through a standardized interface.
 
@@ -47,7 +49,7 @@ Model Context Protocol (MCP) server integrating with the [Miro](https://miro.com
          "command":"npx",
          "args":[
             "-y",
-            "@k-jarzyna/mcp-miro"
+            "@tsyhviny/mcp-miro"
          ],
          "env":{
             "MIRO_ACCESS_TOKEN":"your_miro_access_token"
